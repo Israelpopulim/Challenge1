@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
@@ -46,6 +47,10 @@ To impress clients, you should always exceed expectations and improve the codeba
 
 Are you ready to begin? Here are this week's Challenge requirements.
 
+=======
+# Challenge1
+I was challenged to follow the following user story to fix and clean up the starter code that i was given
+>>>>>>> 3aac1563fe7bcdef56d746e10642c71f9fece747
 ## User Story
 
 ```
@@ -70,6 +75,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+<<<<<<< HEAD
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
@@ -156,3 +162,5 @@ You are required to submit the following for review:
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+>>>>>>> 3aac1563fe7bcdef56d746e10642c71f9fece747
